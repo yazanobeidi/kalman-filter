@@ -21,3 +21,5 @@ INPUTS
 OUTPUTS
 
 * output : resulting data points for each iteration of the filter, can be plotted to see tendancy
+
+Copyright 2015 Yazan Obeidi

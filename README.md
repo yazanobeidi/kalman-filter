@@ -1,9 +1,13 @@
 # kalman filter
-This MATLAB function is a recursive implementation of the Kalman Filter
+This MATLAB function is a recursive implementation of the Kalman Filter.
 
-function [ output ] = kalmanf(zk, A, xk, Pk, B, uk, wk, Q, R, H, output, t)
+## Usage
 
-runkalman.m can be called from command for an example
+The Kalman filter is a single recursive function:
+
+```[ output ] = kalmanf(zk, A, xk, Pk, B, uk, wk, Q, R, H, output, t)```
+
+Run runkalman.m for an example.
 
 INPUTS
 * zk : raw data
@@ -22,4 +26,5 @@ OUTPUTS
 
 * output : resulting data points for each iteration of the filter, can be plotted to see tendancy
 
-Copyright 2015 Yazan Obeidi
+## License
+Copyright 2015, 2016 Yazan Obeidi (GNU GPLv3)

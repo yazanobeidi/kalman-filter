@@ -19,7 +19,7 @@ Try running runkalman.m for an example.
 
 ### Python
 
-```kalman_filter(zk xk, A,, B, Pk, uk, wk, Q, R, H)```
+```kalman_filter(zk xk, A, B, Pk, uk, wk, Q, R, H)```
 
 INPUTS
 

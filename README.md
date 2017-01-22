@@ -40,7 +40,7 @@ OUTPUTS
 
 EXAMPLE
 
-![Alt text](kalman_filtering_1.png?raw=true "Title")
+![PNG](kalman_filtering_1.png?raw=true "Title")
 
 ## License
 Copyright 2015, 2016 Yazan Obeidi (Apache)

@@ -9,7 +9,7 @@ https://en.wikipedia.org/wiki/Kalman_filter
 
 ## Usage
 
-The Kalman filter is a single recursive function:
+The Kalman filter is a single function:
 
 ### MATLAB
 
